@@ -28,7 +28,7 @@ The work here is generated via:
 
 # Copyright
 
-The summaries were created as a computer-generated work in the UK and are automatically protected by the Copyright, Designs and Patents Act 1988. The originality of this work is attributed to the specific prompt created by [Eliran Wong](https://github.com/eliranwong). Under UK law, the author of computer-generated work is considered to be the person who made the necessary arrangements for its creation, which in this case is [Eliran Wong](https://github.com/eliranwong).
+Under UK law, the author of computer-generated work is considered to be the person who made the necessary arrangements for its creation, which in this case is [Eliran Wong](https://github.com/eliranwong).
 
 For more information, please visit:
 
