@@ -42,33 +42,33 @@ https://github.com/eliranwong/AmazingGraceBibleTranslationSeries#copyright
 
 Genesis 1 is the opening chapter of the Bible and it presents the account of the creation of the universe by God. This chapter is considered to be one of the most important and widely referenced sections of the Bible. It provides an overview of the creation story, explaining how the world came into existence and how God created all things.
 
-From verse 1 - Creation of the heavens and the earth:
+* From verse 1 - Creation of the heavens and the earth:
 
 The chapter begins with the statement, "In the beginning God created the heavens and the earth." This verse establishes God as the creator of the universe. The Hebrew word for God used in this verse is "Elohim," which is a plural noun, suggesting the idea of a triune Godhead.
 
 The account then goes on to describe the creation of the earth, which is described as being "formless and void." God then proceeds to create light, separating it from darkness, and establishing day and night.
 
-From verse 3 - Day 1 - Light and darkness:
+* From verse 3 - Day 1 - Light and darkness:
 
 On the first day of creation, God created light by saying, "Let there be light." This was followed by the separation of light from darkness, marking the first day of creation.
 
-From verse 6 - Day 2 - Firmament and sky:
+* From verse 6 - Day 2 - Firmament and sky:
 
 On the second day, God created the firmament, separating the waters above and below it, creating a space between them. This space was called "heaven."
 
-From verse 9 - Day 3 - Dry land, seas, and vegetation:
+* From verse 9 - Day 3 - Dry land, seas, and vegetation:
 
 On the third day, God gathered the waters together, creating seas and dry land. He then caused the earth to bring forth vegetation, including trees, grass, and herbs.
 
-From verse 14 - Day 4 - Sun, moon, and stars:
+* From verse 14 - Day 4 - Sun, moon, and stars:
 
 On the fourth day, God created the sun, moon, and stars, setting them in the firmament to govern day and night, and to mark the seasons and years.
 
-From verse 20 - Day 5 - Sea creatures and birds:
+* From verse 20 - Day 5 - Sea creatures and birds:
 
 On the fifth day, God created sea creatures and birds, blessing them to be fruitful and multiply.
 
-From verse 24 - Day 6 - Land animals and humans:
+* From verse 24 - Day 6 - Land animals and humans:
 
 On the sixth day, God created land animals, including livestock, wild animals, and creeping things. Finally, God created humans, male and female, in his own image and blessed them, giving them dominion over the earth.
 
