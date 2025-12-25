@@ -49,12 +49,16 @@ Simplified Chinese:
 
 https://biblemate.gospelchurch.uk/?d=true&s=true&l=3&bbt=NET&tbt=NET&tool=Summary&bb=1&bc=1&bv=1&lang=sc
 
-# More
+# Related Projects
 
-For Outlines of Every Single Book in the Bible, please visit:
+Analysis of Every Single Book in the Bible
 
-https://github.com/eliranwong/BibleBookOutlines
+https://github.com/eliranwong/BibleBookStudies
 
-For Bible Commentary of Every Single Verse in the Bible:
+Summary of Every Single Chapter in the Bible
+
+https://github.com/eliranwong/BibleChapterSummaries
+
+Commentary of Every Single Verse in the Bible
 
 https://github.com/eliranwong/AI_Commentary
