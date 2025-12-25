@@ -51,6 +51,12 @@ https://biblemate.gospelchurch.uk/?d=true&s=true&l=3&bbt=NET&tbt=NET&tool=Summar
 
 # Related Projects
 
+This resource is built for BibleMate AI:
+
+https://github.com/eliranwong/biblemate
+
+https://github.com/eliranwong/biblemategui
+
 Analysis of Every Single Book in the Bible
 
 https://github.com/eliranwong/BibleBookStudies
